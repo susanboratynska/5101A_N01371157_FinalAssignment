@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N01371157_FinalAssignment.sln", "N01371157_FinalAssignment.sln.csproj", "{DF9DBECB-4B01-4853-990D-A4F9B5E5F084}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Wireframes", "Wireframes", "{23B6FC2E-5D62-476A-84F2-EAEB50D946A0}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{8E31A654-5290-448D-B3CE-6EB756E53E84}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
