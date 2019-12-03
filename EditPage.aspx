@@ -18,7 +18,7 @@
             <asp:TextBox runat="server" class="text_body" ID="page_body" TextMode="MultiLine"></asp:TextBox>
         </div>
         <div class="form_row">
-            <label>Publish Page:</label>
+            <label>Publish Page:</label> 
             <asp:CheckBox runat="server" ID="page_publish" />
         </div>
         <div class="button_div">
